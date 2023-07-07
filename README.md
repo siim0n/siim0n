@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Simon, i'm a 17 yo french dev and i'm pretty familiar with Javascript (mostly node) / Typescript
+My name is Simon, i'm a 17 yo Full Stack Junior developper and i'm mostly experienced with Typescript, Node.js and its environment, as well as scripting, building websites, bots etc...
 - 🔭 I’m currently working on private or freelance projects
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything :)
-- 📫 Reach me via discord: simon#6537 
+- 📫 Reach me via discord: siiim0n

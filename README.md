@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Simon, i'm a 17 yo Full Stack Junior developper and i'm mostly experienced with Typescript, Node.js and its environment, as well as scripting, building websites, bots etc...
+My name is Simon, i'm a Full Stack Junior developper and i'm mostly experienced with Typescript, Node.js and its environment, as well as scripting, building websites, bots etc...
 - 🔭 I’m currently working on private or freelance projects
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything :)
